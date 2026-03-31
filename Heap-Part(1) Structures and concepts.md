@@ -1,4 +1,4 @@
-  Heap Structures and Concepts Part 1
+  # Heap Structures and Concepts Part 1
 
 
 stack‌ တွေက data တွေ ဆွဲသုံးရတာမြန်သလောက် Memory မှာ limit ထားတဲ့ size နဲ့ အသုံးပြုတာ ဖြစ်ပါတယ်။ 
